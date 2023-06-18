@@ -1,0 +1,30 @@
+.calc{
+  width: 400px;
+  height: 400px;
+  background-color: gray;
+ 
+}
+#screen{
+  width: 80%;
+  height: 40px;
+  margin-top: 30px;
+  pointer-events: none;
+  margin-left: 36px;
+}
+.clear-btn{
+  height: 50px;
+  width: 75px;
+  background-color: red;
+  color: black;
+  font-weight: 500;
+  outline: none;
+  border: none;
+  margin-left: 18px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.btn{
+  height: 45px;
+  width: 45px;
+  margin-left: 42px;
+}
